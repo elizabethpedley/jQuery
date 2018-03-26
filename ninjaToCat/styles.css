@@ -1,0 +1,8 @@
+.container{
+    width: 400px;
+    margin: 5px 0 0 30px;
+}
+.container img{
+    width: 400px;
+    height: auto;
+}

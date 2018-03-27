@@ -1,0 +1,25 @@
+#formContainer{
+    width: 500px;
+    display: inline-block;
+    text-align: top;
+}
+input{
+    display: block;
+}
+textarea{
+    width: 200px;
+    height: 150px;
+}
+#cardContainer{
+    display: inline-block;
+    vertical-align: top;
+    width: 500px;
+}
+#cardContainer div{
+    width: 300px;
+    margin: 30px auto 0 auto;
+    border: 2px solid black; 
+}
+#cardContainer h1,h3,p{
+    text-align: center;
+}
